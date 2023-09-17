@@ -30,6 +30,8 @@ For more background info, see my series of writeups about this game:
 
 SplashHack supplies replacement OpenSSL DLL files which serve two purposes: simulating the functions that the game expects to load from its ancient version, **and** patching other parts of the game as soon as it launches.
 
+You'll also probably want to use _SplashDecrypt_ to turn `Splash.bin` into an EXE file that you can run, without needing to go through the broken launcher.
+
 ---
 
 ## How To Build

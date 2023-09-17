@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ssleay32", "ssleay32\ssleay
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libeay32", "libeay32\libeay32.vcxproj", "{C42CA290-0D16-4AED-812C-86EF071C6EAF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SplashDecrypt", "SplashDecrypt\SplashDecrypt.vcxproj", "{CB7BC464-7FE8-4BAC-9213-56B6E4CF67BB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -21,6 +23,10 @@ Global
 		{C42CA290-0D16-4AED-812C-86EF071C6EAF}.Debug|x86.Build.0 = Debug|Win32
 		{C42CA290-0D16-4AED-812C-86EF071C6EAF}.Release|x86.ActiveCfg = Release|Win32
 		{C42CA290-0D16-4AED-812C-86EF071C6EAF}.Release|x86.Build.0 = Release|Win32
+		{CB7BC464-7FE8-4BAC-9213-56B6E4CF67BB}.Debug|x86.ActiveCfg = Debug|Win32
+		{CB7BC464-7FE8-4BAC-9213-56B6E4CF67BB}.Debug|x86.Build.0 = Debug|Win32
+		{CB7BC464-7FE8-4BAC-9213-56B6E4CF67BB}.Release|x86.ActiveCfg = Release|Win32
+		{CB7BC464-7FE8-4BAC-9213-56B6E4CF67BB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
