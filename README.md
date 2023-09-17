@@ -26,7 +26,7 @@ For more background info, see my series of writeups about this game:
 
 - **Part 1**: [They Made A Golf MMO With Sonic In it (Real!) (Not Clickbait!) (Only A Bit)](https://wuffs.org/blog/reviving-sega-splash-golf)
 - **Part 2**: [Reviving Sega's forgotten golf MMO after 14 years](https://wuffs.org/blog/reviving-sega-splash-golf-part-2)
-- **Part 3**: _(to be published)_
+- **Part 3**: [Splash Golf Revival, Part 3: The Final Splash](https://wuffs.org/blog/reviving-sega-splash-golf-part-3)
 
 SplashHack supplies replacement OpenSSL DLL files which serve two purposes: simulating the functions that the game expects to load from its ancient version, **and** patching other parts of the game as soon as it launches.
 
